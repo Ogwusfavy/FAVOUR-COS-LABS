@@ -1,6 +1,7 @@
-//EDEH VICTORGENESIS
-//CIS/SWE/24/001
-//TASK 7.4
+//Ogwuche Favour Ehi
+//CIS/CSC/24/023
+
+//computing and Infomation system
 
 /*
  * This class demonstrates the concept of pass-by-value in Java.

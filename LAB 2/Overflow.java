@@ -1,6 +1,7 @@
-//EDEH VICTORGENESIS
-//CIS/SWE/24/001
-//TASK 2.5
+//Ogwuche Favour Ehi
+//CIS/CSC/24/023
+
+//computing and Infomation system
 
 /**
  * A simple class to demonstrate integer overflow in Java.

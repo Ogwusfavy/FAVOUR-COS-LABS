@@ -1,6 +1,7 @@
+//Ogwuche Favour Ehi
+//CIS/CSC/24/023
 
-//EDEH VICTORGENESIS
-//CIS/SWE/24/001
+//computing and Infomation system
 //TASK 3.3
 
 /*
